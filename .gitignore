@@ -1,0 +1,4 @@
+chatmodels/
+embeddings/
+embeddings/hub/
+.env
